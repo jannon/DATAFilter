@@ -1,6 +1,6 @@
 #import "DATAFilter.h"
 
-#import "DATAObjectIDs.h"
+#import <DATAObjectIDs/DATAObjectIDs.h>
 
 @implementation DATAFilter
 

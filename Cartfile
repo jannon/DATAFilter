@@ -1,0 +1,2 @@
+# TODO: Revert to "3lvis/DATAObjectIDs" once PR is merged or support added in original repo
+github "jannon/DATAObjectIDs" "add-carthage-compatibility"
